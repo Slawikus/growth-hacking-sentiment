@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+altair = "*"
+imbalanced-learn = "*"
+imblearn = "*"
+nltk = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+scipy = "*"
+simpletransformers = "*"
+tokenizers = "*"
+torch = "*"
+torchvision = "*"
+transformers = "*"
+Keyness = "*"
+Pillow = "*"
+
+[requires]
+python_version = "3.8"
